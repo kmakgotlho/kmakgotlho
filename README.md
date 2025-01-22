@@ -1,16 +1,36 @@
-## Hi there 👋
+## Hi there, I'm Keneilwe Makgotlho 👋
 
-<!--
-**kmakgotlho/kmakgotlho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I am a data analyst graduate currently pursuing a degree in data science. I have a strong passion for uncovering insights from data and applying machine learning techniques to solve real-world problems. My goal is to bridge the gap between data and decision-making processes.
 
-Here are some ideas to get you started:
+## 🔭 What I'm Currently Working On
+- **Predictive Analytics Project**: Developing models to predict customer churn for a telecom company.
+- **Netflix Project**: Implementing a recommendation system using collaborative filtering techniques.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I'm Learning
+- R programming language
+- Modelling and predictions
+
+## 💬 Ask Me About
+- Data Analysis and Visualization
+- Machine Learning Algorithms
+
+## 📫 How to Reach Me
+- Email: kmakgotlho@icloud.com
+- LinkedIn: [Kmakgotlho's LinkedIn]([https://www.linkedin.com/in/kmakgotlho](https://www.linkedin.com/in/keneilwe-makgotlho-287b64218/))
+
+## 🛠️ Technologies & Tools
+- **Programming Languages**: Python, R, SQL
+- **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn, Tableau,PowerBi
+- **Machine Learning**: Scikit-Learn, TensorFlow, Keras
+- **Databases**: MySQL, PostgreSQL
+
+## 📈 GitHub Stats
+![Kmakgotlho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmakgotlho&show_icons=true&theme=radical)
+
+## 🌟 Top Repositories
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kmakgotlho&repo=predictive-analytics)](https://github.com/kmakgotlho/predictive-analytics)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kmakgotlho&repo=recommendation-system)](https://github.com/kmakgotlho/recommendation-system)
+
+## 🤝 Let's Connect
+Feel free to reach out if you want to collaborate on a project, ask a question, or just say hi!
