@@ -9,6 +9,7 @@ I am a data analyst graduate currently pursuing a degree in data science. I have
 
 ## 🌱 What I'm Learning
 - R programming language
+- Oracle
 - Modelling and predictions
 
 ## 💬 Ask Me About
@@ -20,10 +21,10 @@ I am a data analyst graduate currently pursuing a degree in data science. I have
 - LinkedIn: https://www.linkedin.com/in/kmakgotlho](https://www.linkedin.com/in/keneilwe-makgotlho-287b64218/
 
 ## 🛠️ Technologies & Tools
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, R, SQL, C++
 - **Data Analysis & Visualization**: Pandas, Matplotlib, Seaborn, Tableau,PowerBi
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras
-- **Databases**: MySQL, PostgreSQL
+- **Databases**: MySQL, MSSQL
 
 ## 📈 GitHub Stats
 ![Kmakgotlho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmakgotlho&show_icons=true&theme=radical)
