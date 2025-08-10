@@ -30,7 +30,7 @@ I am a data analyst graduate currently pursuing a degree in data science. I have
 ![Kmakgotlho's GitHub stats](https://github-readme-stats.vercel.app/api?username=kmakgotlho&show_icons=true&theme=radical)
 
 ## 🌟 Top Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kmakgotlho&repo=predictive-analytics)]([https://github.com/kmakgotlho/predictive-analytics](https://github.com/kmakgotlho/Weather-and-Climate-Data-EDA))
+[![ReadMe Card]([https://github.com/kmakgotlho/predictive-analytics](https://github.com/kmakgotlho/Weather-and-Climate-Data-EDA))
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kmakgotlho&repo=recommendation-system)](https://github.com/kmakgotlho/recommendation-system)
 
 ## 🤝 Let's Connect
