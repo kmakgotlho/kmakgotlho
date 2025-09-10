@@ -18,7 +18,7 @@ I am a data analyst graduate currently pursuing a degree in data science. I have
 
 ## 📫 How to Reach Me
 - Email: kmakgotlho@icloud.com
-- LinkedIn: https://www.linkedin.com/in/kmakgotlho](https://www.linkedin.com/in/keneilwe-makgotlho-287b64218/
+- LinkedIn: https://www.linkedin.com/in/kmakgotlho
 
 ## 🛠️ Technologies & Tools
 - **Programming Languages**: Python, R, SQL, C++
